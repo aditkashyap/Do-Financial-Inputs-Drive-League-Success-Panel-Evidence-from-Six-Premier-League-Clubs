@@ -104,8 +104,7 @@ Example command: marginsplot, xdimension(log_broadcast)
 2) It shows that money matters, but how it matters depends on structure, not just spending.
 
 **Authors**
-Adit Kashyap
-
+Adit Kashyap,
 Onofrio Cardo
 
 University of Toronto
