@@ -105,6 +105,7 @@ Example command: marginsplot, xdimension(log_broadcast)
 
 **Authors**
 Adit Kashyap
+
 Onofrio Cardo
 
 University of Toronto
